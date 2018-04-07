@@ -35,6 +35,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5BB0CF4020792C6800E4ECD0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				82D01E312069061A00BBFA1A /* AppDelegate.swift */,
+				82D01E382069061A00BBFA1A /* Assets.xcassets */,
+				82D01E3A2069061A00BBFA1A /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		82D01E252069061A00BBFA1A = {
 			isa = PBXGroup;
 			children = (
@@ -54,11 +64,9 @@
 		82D01E302069061A00BBFA1A /* Concentration_01 */ = {
 			isa = PBXGroup;
 			children = (
-				82D01E312069061A00BBFA1A /* AppDelegate.swift */,
+				5BB0CF4020792C6800E4ECD0 /* Supporting Files */,
 				82D01E332069061A00BBFA1A /* ViewController.swift */,
 				82D01E352069061A00BBFA1A /* Main.storyboard */,
-				82D01E382069061A00BBFA1A /* Assets.xcassets */,
-				82D01E3A2069061A00BBFA1A /* LaunchScreen.storyboard */,
 				82D01E3D2069061A00BBFA1A /* Info.plist */,
 			);
 			path = Concentration_01;
