@@ -64,9 +64,9 @@
 		82D01E302069061A00BBFA1A /* Concentration_01 */ = {
 			isa = PBXGroup;
 			children = (
-				5BB0CF4020792C6800E4ECD0 /* Supporting Files */,
 				82D01E332069061A00BBFA1A /* ViewController.swift */,
 				82D01E352069061A00BBFA1A /* Main.storyboard */,
+				5BB0CF4020792C6800E4ECD0 /* Supporting Files */,
 				82D01E3D2069061A00BBFA1A /* Info.plist */,
 			);
 			path = Concentration_01;
